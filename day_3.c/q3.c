@@ -1,3 +1,4 @@
+/*Write a program to Find LCM of two numbers.*/
 #include<stdio.h>
 int main (){
     int n,m, i,gcd;
