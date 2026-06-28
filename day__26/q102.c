@@ -4,8 +4,6 @@ system*/
 
 int main() {
     int age;
-
-    // Input age
     printf("Enter your age: ");
     scanf("%d", &age);
 
